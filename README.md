@@ -10,6 +10,9 @@ It already has :
 - The Unity project into a subfolder, with the starting packages for URP (including Shader Graph).
 - New input system basic layout set-up.
 
+XR specifics:
+- Basic room for testing purposes.
+
 ## Unlicense
 
 This template is released into public domain. See the [UNLICENSE](./UNLICENSE) file.
