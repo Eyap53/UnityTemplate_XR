@@ -14,6 +14,7 @@ XR specifics:
 - Basic room for testing purposes.
 - Packages necessary to XR.
 - XR camera.
+- Simple navigation system using left controller.
 
 ## How To: Add a new Headset brand ?
 
