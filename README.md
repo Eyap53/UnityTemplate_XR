@@ -12,6 +12,8 @@ It already has :
 
 XR specifics:
 - Basic room for testing purposes.
+- Packages necessary to XR.
+- XR camera.
 
 ## Unlicense
 
